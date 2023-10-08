@@ -1,0 +1,7 @@
+probe
+__pycache__
+samtools_index
+tmp
+.nfs*
+target.txt
+target.txt.nocnv
